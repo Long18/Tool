@@ -4,9 +4,9 @@ ini_set('max_execution_time', 0);
 
 //token của bạn
 
-$token = "EAAD4tyD9cRABAGH0VHQi2fNLVtWZByHwy5D3eeBg9LPDhPIbk1wYDF1w0biAlyMFIGK18mTa8hrDBb5FNJRaAQP6ZCDwYSZBwhBQrgxV8HrPCEKUiG6f8DQ8ZC5o8r41KDc5jAVNOFUp0pwLzPIcpSjTq9vNxTT48VAS5HU2s5w8ZCRVUQkngAimv7FNnhAsZD";
+$token = "Your Token";
 //id nhóm
-$id_nhom = "194840530871071";
+$id_nhom = "Your Id";
 
 $url = "https://graph.facebook.com/$id_nhom/members?limit=5000&fields=id&access_token=$token";
 
